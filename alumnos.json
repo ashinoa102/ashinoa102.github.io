@@ -1,0 +1,16 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Juan Perez",
+      "dni": "12345678"
+    },
+    {
+      "nombre": "Maria Gomez",
+      "dni": "98765432"
+    },
+    {
+      "nombre": "Pedro Rodriguez",
+      "dni": "56789012"
+    }
+  ]
+}
